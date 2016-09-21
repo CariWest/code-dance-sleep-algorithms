@@ -29,4 +29,4 @@ If you would like to suggest a particular algorithm, make a pull request with th
 
 ## Algorithms
 
-  - [Sep 19, 2016](algorithms/anagram-detector)
+  - [Sep 19, 2016](algorithms/anagram-detector) — Anagram Detector
